@@ -7,6 +7,9 @@ FONT SIZE SYSTEM (px)
 */
 
 /* 
+ICONS WEB: https://heroicons.com/
+COLORS WEB: https://yeun.github.io/open-color/
+
 MAIN COLOR: #087f5b
 GREY COLOR: #343a40
 
@@ -121,6 +124,11 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: #087f5b;
+
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
 }
 
 .features-title {
@@ -186,6 +194,10 @@ h3 {
 }
 
 .chair-icon {
+  stroke: #087f5b;
+  /* fill: #12b886; */
+  width: 24px;
+  height: 24px;
 }
 
 .chair-price {
